@@ -26,3 +26,5 @@ Here is some text that I will commit to the test branch.
 Here is some text for the new_test branch.
 
 text for another commit another line of text
+
+**This is a test branch line**
